@@ -1,7 +1,7 @@
 
     .city {
        
-       background-color: #c2e2c3;
+       background-color: #e2c2de;
        color: black;
        padding: 10px;
     }
@@ -12,3 +12,17 @@
        text-align: center;
      }
    
+p.dotted{
+    border-style: dotted;
+}
+
+p.solid{
+    border-style: solid;
+}
+
+.back{
+    background-color: #3f0938;
+    color: white;
+    padding: 10px;
+    font-style:italic    
+}
