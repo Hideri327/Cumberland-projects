@@ -3,10 +3,12 @@ p.one{
     border-color: red green blue yellow;
 }
 
-body{
-    background-color: aqua;
-}
 
 p.two{
     border-style: solid;
+    color: white;
+    border-color: white;
+}
+p.three{
+    color:white;
 }
