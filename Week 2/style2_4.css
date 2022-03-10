@@ -1,0 +1,11 @@
+div{
+    background-color:aqua;
+}
+
+div.first{
+    opacity: 0.3;
+}
+
+div.second{
+    opacity: 0.6;
+}
