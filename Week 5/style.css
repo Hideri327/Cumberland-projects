@@ -1,0 +1,20 @@
+
+/*whole sites background color*/
+body{
+    background-color: lavender;
+}
+
+/*content on the left of the page*/
+.aside{
+    background-color: lightgray;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    width: 30%;    
+}
+
+.myDiv{
+    border-style:dashed;
+    
+}
